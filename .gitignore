@@ -1,0 +1,37 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Dotnet tool downloads
+.dotnet/tools/
+
+# Logs
+*.log
+
+# Runtime
+*.pid
+*.seed
+
+# OS files
+*.DS_Store
+*.Thumbs.db
+
+# Ignore external reference and large folders
+external/
+src/**/bin/
+src/**/obj/
+
+# Optional: ignore the cloned reference repo if you don't want it tracked
+src/GestionCitasMedicas.API/external/
