@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/10qaqbXiqZgk6r2EZpqtF2ggWlRa1qBrwMyui6hXKE=",
+  "Source": "GestionCitasMedicas.API",
+  "BasePath": "_content/GestionCitasMedicas.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

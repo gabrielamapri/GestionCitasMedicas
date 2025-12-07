@@ -1,0 +1,5 @@
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.csproj.AssemblyReference.cache
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.AssemblyInfoInputs.cache
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.AssemblyInfo.cs
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.csproj.CoreCompileInputs.cache

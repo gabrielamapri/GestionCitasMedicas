@@ -1,0 +1,11 @@
+namespace GestionCitasMedicas.API.Application.DTOs.Paciente;
+
+public class CreatePacienteDto
+{
+    public string Nombres { get; set; } = string.Empty;
+    public string Apellidos { get; set; } = string.Empty;
+    public string DocumentoIdentidad { get; set; } = string.Empty;
+    public string Email { get; set; } = string.Empty;
+    public string Telefono { get; set; } = string.Empty;
+    public DateTime FechaNacimiento { get; set; }
+}

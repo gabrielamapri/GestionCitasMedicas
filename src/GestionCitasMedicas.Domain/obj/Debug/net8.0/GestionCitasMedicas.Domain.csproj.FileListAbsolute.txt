@@ -1,0 +1,11 @@
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\bin\Debug\net8.0\GestionCitasMedicas.Domain.deps.json
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\bin\Debug\net8.0\GestionCitasMedicas.Domain.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\bin\Debug\net8.0\GestionCitasMedicas.Domain.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\GestionCitasMedicas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\GestionCitasMedicas.Domain.AssemblyInfoInputs.cache
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\GestionCitasMedicas.Domain.AssemblyInfo.cs
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\GestionCitasMedicas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\GestionCitasMedicas.Domain.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\refint\GestionCitasMedicas.Domain.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\GestionCitasMedicas.Domain.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Domain\obj\Debug\net8.0\ref\GestionCitasMedicas.Domain.dll
