@@ -1,11 +1,11 @@
 using AutoMapper;
 using GestionCitasMedicas.Domain.Entities;
-using GestionCitasMedicas.API.Application.DTOs.Paciente;
-using GestionCitasMedicas.API.Application.DTOs.Medico;
-using GestionCitasMedicas.API.Application.DTOs.Especialidad;
-using GestionCitasMedicas.API.Application.DTOs.Cita;
+using GestionCitasMedicas.Application.DTOs.Paciente;
+using GestionCitasMedicas.Application.DTOs.Medico;
+using GestionCitasMedicas.Application.DTOs.Especialidad;
+using GestionCitasMedicas.Application.DTOs.Cita;
 
-namespace GestionCitasMedicas.API.Application.Mappings;
+namespace GestionCitasMedicas.Application.Mappings;
 
 public class MappingProfile : Profile
 {

@@ -1,11 +1,10 @@
 using AutoMapper;
-using GestionCitasMedicas.API.Application.DTOs.Cita;
-using GestionCitasMedicas.API.Application.Interfaces;
+using GestionCitasMedicas.Application.DTOs.Cita;
+using GestionCitasMedicas.Application.Interfaces;
 using GestionCitasMedicas.Domain.Entities;
-using GestionCitasMedicas.Infrastructure.Repositories;
-using GestionCitasMedicas.Infrastructure.UnitOfWork;
+using GestionCitasMedicas.Ports.Out;
 
-namespace GestionCitasMedicas.API.Application.Services;
+namespace GestionCitasMedicas.Application.Services;
 
 public class CitaService : ICitaService
 {

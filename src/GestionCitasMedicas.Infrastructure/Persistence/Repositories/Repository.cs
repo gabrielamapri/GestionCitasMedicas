@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 using GestionCitasMedicas.Infrastructure.Persistence.Context;
 using GestionCitasMedicas.Ports.Out;
 
-namespace GestionCitasMedicas.API.Duplicates.Infrastructure.Repositories;
+namespace GestionCitasMedicas.Infrastructure.Repositories;
 
 public class Repository<T> : IRepository<T> where T : class
 {

@@ -23,4 +23,9 @@
     <ProjectReference Include="..\GestionCitasMedicas.Infrastructure\GestionCitasMedicas.Infrastructure.csproj" />
   </ItemGroup>
 
+  <!-- Exclude external reference files from compilation to avoid duplicate Program.cs and other conflicts -->
+  <ItemGroup>
+    <Compile Remove="external\**\*.cs" />
+  </ItemGroup>
+
 </Project>

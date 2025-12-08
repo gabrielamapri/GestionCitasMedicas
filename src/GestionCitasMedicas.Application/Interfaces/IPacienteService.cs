@@ -1,6 +1,6 @@
-using GestionCitasMedicas.API.Application.DTOs.Paciente;
+using GestionCitasMedicas.Application.DTOs.Paciente;
 
-namespace GestionCitasMedicas.API.Application.Interfaces;
+namespace GestionCitasMedicas.Application.Interfaces;
 
 public interface IPacienteService
 {

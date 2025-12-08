@@ -1,4 +1,4 @@
-namespace GestionCitasMedicas.API.Application.DTOs.Paciente;
+namespace GestionCitasMedicas.API.Duplicates.DTOs.Paciente;
 
 public class UpdatePacienteDto
 {

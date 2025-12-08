@@ -31,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\gabri\\Desarrollo de Servicios Web 1 - PF\\gestion-citas-medicas-api\\src\\GestionCitasMedicas.Domain\\GestionCitasMedicas.Domain.csproj": {
+                "projectPath": "C:\\Users\\gabri\\Desarrollo de Servicios Web 1 - PF\\gestion-citas-medicas-api\\src\\GestionCitasMedicas.Domain\\GestionCitasMedicas.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -375,6 +379,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.2, )"
             },

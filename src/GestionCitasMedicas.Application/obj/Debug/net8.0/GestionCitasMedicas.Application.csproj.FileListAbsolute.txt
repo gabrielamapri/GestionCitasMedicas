@@ -3,3 +3,16 @@ C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\
 C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.AssemblyInfoInputs.cache
 C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.AssemblyInfo.cs
 C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.sourcelink.json
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Application.deps.json
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Application.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Application.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Abstractions.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Domain.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Domain.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\bin\Debug\net8.0\GestionCitasMedicas.Abstractions.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionC.95A44A8D.Up2Date
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\refint\GestionCitasMedicas.Application.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\GestionCitasMedicas.Application.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.Application\obj\Debug\net8.0\ref\GestionCitasMedicas.Application.dll

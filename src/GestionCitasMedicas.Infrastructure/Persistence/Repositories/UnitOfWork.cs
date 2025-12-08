@@ -1,4 +1,5 @@
 using GestionCitasMedicas.Infrastructure.Persistence.Context;
+using GestionCitasMedicas.Ports.Out;
 
 namespace GestionCitasMedicas.Infrastructure.UnitOfWork;
 

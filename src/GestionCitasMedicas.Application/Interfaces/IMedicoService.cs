@@ -1,6 +1,6 @@
-using GestionCitasMedicas.API.Application.DTOs.Medico;
+using GestionCitasMedicas.Application.DTOs.Medico;
 
-namespace GestionCitasMedicas.API.Application.Interfaces;
+namespace GestionCitasMedicas.Application.Interfaces;
 
 public interface IMedicoService
 {
@@ -9,4 +9,6 @@ public interface IMedicoService
     Task<MedicoDto> CreateAsync(CreateMedicoDto dto);
     Task<MedicoDto?> UpdateAsync(int id, UpdateMedicoDto dto);
     Task<bool> DeleteAsync(int id);
+    Task<IEnumerable<MedicoDto>> SearchByEspecialidadAsync(int especialidadId);
+    Task<MedicoDto?> GetByEmailAsync(string email);
 }

@@ -1,18 +1,18 @@
 using AutoMapper;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace GestionCitasMedicas.API.Application;
+namespace GestionCitasMedicas.Application;
 
 public static class DependencyInjection
 {
     public static IServiceCollection AddApplication(this IServiceCollection services)
     {
-        services.AddAutoMapper(typeof(Application.Mappings.MappingProfile));
+        services.AddAutoMapper(typeof(Mappings.MappingProfile));
 
         // Servicios de aplicación
-        services.AddScoped<Application.Interfaces.IPacienteService, Application.Services.PacienteService>();
-        services.AddScoped<Application.Interfaces.IMedicoService, Application.Services.MedicoService>();
-        services.AddScoped<Application.Interfaces.ICitaService, Application.Services.CitaService>();
+        services.AddScoped<Interfaces.IPacienteService, Services.PacienteService>();
+        services.AddScoped<Interfaces.IMedicoService, Services.MedicoService>();
+        services.AddScoped<Interfaces.ICitaService, Services.CitaService>();
 
         return services;
     }

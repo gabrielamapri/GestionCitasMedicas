@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using GestionCitasMedicas.API.Application.Interfaces;
-using GestionCitasMedicas.API.Application.DTOs.Medico;
+using GestionCitasMedicas.Application.Interfaces;
+using GestionCitasMedicas.Application.DTOs.Medico;
 
 namespace GestionCitasMedicas.API.Controllers
 {

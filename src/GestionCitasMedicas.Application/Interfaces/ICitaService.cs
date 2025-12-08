@@ -1,6 +1,6 @@
-using GestionCitasMedicas.API.Application.DTOs.Cita;
+using GestionCitasMedicas.Application.DTOs.Cita;
 
-namespace GestionCitasMedicas.API.Application.Interfaces;
+namespace GestionCitasMedicas.Application.Interfaces;
 
 public interface ICitaService
 {
@@ -9,4 +9,8 @@ public interface ICitaService
     Task<CitaDto> CreateAsync(CreateCitaDto dto);
     Task<CitaDto?> UpdateAsync(int id, CreateCitaDto dto);
     Task<bool> DeleteAsync(int id);
+    Task<IEnumerable<CitaDto>> GetByPacienteAsync(int pacienteId);
+    Task<IEnumerable<CitaDto>> GetByMedicoAsync(int medicoId);
+    Task<IEnumerable<CitaDto>> GetByDateAsync(DateTime date);
+    Task<bool> CancelAsync(int id);
 }

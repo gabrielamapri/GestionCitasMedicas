@@ -3,7 +3,7 @@ using GestionCitasMedicas.Domain.Entities;
 using GestionCitasMedicas.Infrastructure.Persistence.Context;
 using GestionCitasMedicas.Ports.Out;
 
-namespace GestionCitasMedicas.API.Duplicates.Infrastructure.Repositories;
+namespace GestionCitasMedicas.Infrastructure.Repositories;
 
 public class MedicoRepository : Repository<Medico>, IMedicoRepository
 {

@@ -109,3 +109,13 @@ C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\
 C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\obj\Debug\net8.0\ref\GestionCitasMedicas.API.dll
 C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\obj\Debug\net8.0\GestionCitasMedicas.API.sourcelink.json
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Abstractions.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Application.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Domain.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Infrastructure.dll
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Application.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Infrastructure.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Domain.pdb
+C:\Users\gabri\Desarrollo de Servicios Web 1 - PF\gestion-citas-medicas-api\src\GestionCitasMedicas.API\bin\Debug\net8.0\GestionCitasMedicas.Abstractions.pdb

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionCitasMedicas.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77048ebf1ae0a3121e133a605157bebcf366d73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc7ca4eb23cb8cd599101ac92a69b5738408b0c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionCitasMedicas.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionCitasMedicas.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

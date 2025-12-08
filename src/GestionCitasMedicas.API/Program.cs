@@ -1,6 +1,6 @@
 using DotNetEnv;
 using GestionCitasMedicas.Infrastructure;
-using GestionCitasMedicas.API.Application;
+using GestionCitasMedicas.Application;
 
 var builder = WebApplication.CreateBuilder(args);
 

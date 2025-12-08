@@ -1,4 +1,4 @@
-namespace GestionCitasMedicas.API.Application.DTOs.Cita;
+namespace GestionCitasMedicas.Application.DTOs.Cita;
 
 public class CreateCitaDto
 {

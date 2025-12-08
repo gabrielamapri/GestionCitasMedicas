@@ -1,4 +1,4 @@
-namespace GestionCitasMedicas.API.Application.DTOs.Especialidad;
+namespace GestionCitasMedicas.Application.DTOs.Especialidad;
 
 public class EspecialidadDto
 {
