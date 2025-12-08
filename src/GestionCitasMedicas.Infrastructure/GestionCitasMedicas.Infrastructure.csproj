@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GestionCitasMedicas.Domain\GestionCitasMedicas.Domain.csproj" />
+    <ProjectReference Include="..\GestionCitasMedicas.Abstractions\GestionCitasMedicas.Abstractions.csproj" />
   </ItemGroup>
 
 </Project>

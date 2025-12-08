@@ -1,0 +1,95 @@
+Estructura actual (generada):
+
+src/
+  GestionCitasMedicas.API/
+    GestionCitasMedicas.API.csproj
+    GestionCitasMedicas.API.sln
+    Program.cs
+    GestionCitasMedicas.API.http
+    appsettings.json
+    appsettings.Development.json
+    .env
+    .env.example
+    Properties/launchSettings.json
+    Controllers/
+      PacientesController.cs
+      MedicosController.cs
+      CitasController.cs
+    Infrastructure/
+      Repositories/
+        Repository.cs
+        IRepository.cs
+        MedicoRepository.cs
+        IMedicoRepository.cs
+        CitaRepository.cs
+        ICitaRepository.cs
+      Migrations/
+        20251207215304_InitialCreate.cs
+        20251207215304_InitialCreate.Designer.cs
+        ApplicationDbContextModelSnapshot.cs
+      Persistence/
+        Context/
+          ApplicationDbContext.cs
+          DesignTimeDbContextFactory.cs
+        Configurations/
+          PacienteConfiguration.cs
+          MedicoConfiguration.cs
+          EspecialidadConfiguration.cs
+          CitaConfiguration.cs
+  GestionCitasMedicas.Application/
+    GestionCitasMedicas.Application.csproj
+    DependencyInjection.cs
+    Mappings/MappingProfile.cs
+    Interfaces/
+      IPacienteService.cs
+      IMedicoService.cs
+      ICitaService.cs
+    DTOs/
+      Paciente/
+        PacienteDto.cs
+        CreatePacienteDto.cs
+        UpdatePacienteDto.cs
+      Medico/
+        MedicoDto.cs
+        CreateMedicoDto.cs
+        UpdateMedicoDto.cs
+      Cita/
+        CitaDto.cs
+        CreateCitaDto.cs
+      Especialidad/
+        EspecialidadDto.cs
+        CreateEspecialidadDto.cs
+    Services/
+      PacienteService.cs
+      MedicoService.cs
+      CitaService.cs
+  GestionCitasMedicas.Domain/
+    GestionCitasMedicas.Domain.csproj
+    Entities/
+      Paciente.cs
+      Medico.cs
+      Especialidad.cs
+      Cita.cs
+    Exceptions/
+      DomainException.cs
+      NotFoundException.cs
+      BusinessRuleException.cs
+    Ports/
+      Out/
+        IRepository.cs
+        IUnitOfWork.cs
+  GestionCitasMedicas.Infrastructure/
+    GestionCitasMedicas.Infrastructure.csproj
+    Persistence/
+      Context/
+        ApplicationDbContext.cs
+        DesignTimeDbContextFactory.cs
+      Configurations/
+        (vacias ya que se agregaron en API/Infrastructure)
+      Repositories/
+        UnitOfWork.cs
+        IUnitOfWork.cs
+
+Notas:
+- He generado el árbol basado en los archivos encontrados en el repo.
+- Algunas rutas (por ejemplo donde añadí las configuraciones) pueden diferir levemente del "profe"; propondré un plan para alinear exactamente.
