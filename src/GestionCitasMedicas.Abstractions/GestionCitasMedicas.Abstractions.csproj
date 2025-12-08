@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GestionCitasMedicas.Domain\GestionCitasMedicas.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
